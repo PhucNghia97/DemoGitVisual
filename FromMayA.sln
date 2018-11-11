@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBranchB_MayB", "FormBra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBranchB_MayA", "FormBranchB_MayA\FormBranchB_MayA.csproj", "{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormLogin", "FormLogin\FormLogin.csproj", "{4EDD1491-E648-488B-9BEC-4352C3BEADEB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDD1491-E648-488B-9BEC-4352C3BEADEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDD1491-E648-488B-9BEC-4352C3BEADEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDD1491-E648-488B-9BEC-4352C3BEADEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDD1491-E648-488B-9BEC-4352C3BEADEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
