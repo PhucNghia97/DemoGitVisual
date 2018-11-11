@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromMayA", "FromMayA\FromMayA.csproj", "{F9E8A0C2-3D9E-43B4-AF30-7499E3354952}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBranchB_MayA", "FormBranchB_MayA\FormBranchB_MayA.csproj", "{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F9E8A0C2-3D9E-43B4-AF30-7499E3354952}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9E8A0C2-3D9E-43B4-AF30-7499E3354952}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9E8A0C2-3D9E-43B4-AF30-7499E3354952}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ACB9F22-4C8E-461A-A569-4E9FBC6ED16A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
